@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#FF0000',
+    backgroundColor: '#ffc4da',
   },
   container: {
     width: '80%',
@@ -14,6 +14,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderWidth: 10,
     borderColor: '#dbdbdb',
+  },
+  itemList: {
+    paddingTop: 10,
+    paddingBottom: 10,
+    borderBottomWidth: 10,
+    borderColor: '#f4f4f4',
   },
 });
 

@@ -1,0 +1,6 @@
+/*Posts*/
+export const GET_POSTS_LIST = 'GET_POSTS_LIST';
+export const API_GET_POSTS_LIST = 'API_GET_POSTS_LIST';
+export const FETCH_POSTS_FAIL = 'FETCH_POSTS_FAIL';
+export const SET_POST_LOADING = 'SET_POST_LOADING';
+export const CLEAR_POSTS_LIST = 'CLEAR_POSTS_LIST';
